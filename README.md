@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Gedev. I'm a full stack developer passionate about new technologies, 
+Hi, I'm Gedev. I'm a Java full stack developer passionate about new technologies, 
 psychology and have a pronounced interest in finance, healthcare and education.
 
 I love to try new technologies and see how it can improve our actual world or our actual web.
