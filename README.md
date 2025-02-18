@@ -33,11 +33,3 @@ I love to try new technologies and see how it can improve our actual world or ou
 ![Github followers](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
 
 ![Github followers](https://img.shields.io/badge/Jetbrains-blueviolet?style=flat&logo=IntellijIDEA)
-
-## Where else am I ?
-
-You can find more informations about me on my **portfolio**. The link is here, just on your left ◀⬅  
-You can also contact me via my [email address](mailto:gerald.devreux.pro@gmail.com) or on [Linkedin](https://www.linkedin.com/in/gerald-devreux/).
-
-
-
